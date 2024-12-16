@@ -135,7 +135,6 @@ h1 {
 
 .btn-s:hover{
     background-color: wheat;
-    font-weight: bold;
 }
 
 .buttons{
@@ -155,7 +154,7 @@ h1 {
 
 .buttons:hover{
     background-color: white;
-    font-weight: bold;
+
 }
 
 @media screen and (max-width: 680px) {
